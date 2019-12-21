@@ -16,5 +16,4 @@ Content/StarterContent
 *.log
 *.target.xml
 *.target
-*.modules
 *.opendb
