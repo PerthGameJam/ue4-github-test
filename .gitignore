@@ -1,20 +1,13 @@
+# Ignore UE4 Folders
 Intermediate
 Saved
 Build
 Content/StarterContent
+
+# Other Misc files
 .vs
-*.sdf
-*.opensdf
-*.sln
-*.suo
-*.pdb
 *.exe
-*-DebugGame.dll
 */Binaries/Win64/*.exp
 */Binaries/Win64/*.lib
 */Releases
 *.log
-*.target.xml
-*.target
-*.modules
-*.opendb
